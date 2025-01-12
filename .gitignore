@@ -1,6 +1,22 @@
 # Created by https://www.toptal.com/developers/gitignore/api/windows,linux,macos,python
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,linux,macos,python
 
+### Images ###
+# JPEG
+
+# JPEG 2000
+
+# JPEG XR
+
+# Graphics Interchange Format
+
+# RAW
+
+# Web P
+
+# Portable Network Graphics
+*.png
+
 ### Linux ###
 *~
 
