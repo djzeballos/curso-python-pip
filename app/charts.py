@@ -23,7 +23,7 @@ def generate_pie_chart(labels, values):
     ax.pie(values, labels=labels)
     ax.axis('equal')
     #plt.show()
-    plt.savefig('../app/pie.png')
+    plt.savefig('../app/chart_pie_final.png')
     plt.close()
 
 # para ejecutar como script o desde la consola
